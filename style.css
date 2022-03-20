@@ -15,22 +15,22 @@ height: 150px;
 
 }
 #page-loader circle:nth-child(1) {
-    stroke: #181716;
+    stroke: #e7913b;
     stroke-dasharray: 50;
 
 }
 #page-loader circle:nth-child(2) {
-    stroke: #8edae4;
+    stroke: #78e215;
     stroke-dasharray: 100;
 
 }
 #page-loader circle:nth-child(3) {
-    stroke: #0ab953;
+    stroke: #358dd4;
     stroke-dasharray: 180;
 
 }
 #page-loader circle:nth-child(4) {
-    stroke: #e22b1e;
+    stroke: #0e461c;
     stroke-dasharray: 350;
     stroke-dashoffset: -100;
 
